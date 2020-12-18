@@ -15,7 +15,7 @@ namespace AzureProjectVM.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Valliammai Muthiah Page!";
+            ViewBag.Message = "Valliammai Muthiah Updated!";
 
             return View();
         }
